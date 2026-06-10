@@ -1,0 +1,3 @@
+# Intelligent Heart Disease Prediction System
+It a Machine Learning-based web application that predicts the likelihood of Heart Stroke using patient health parameters and provides instant risk assessment through an interactive Streamlit interface.
+The system analyzes various health parameters such as age, sex, chest pain type, blood pressure, cholesterol level, fasting blood sugar, heart rate, and other clinical indicators to provide an early assessment of heart disease risk.
